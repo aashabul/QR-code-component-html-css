@@ -16,8 +16,8 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [code link](https://github.com/aashabul/QR-code-component-html-css)
+- Live Site URL: [site link](https://jovial-naiad-837ff7.netlify.app/)
 
 ### Built with
 
